@@ -2395,6 +2395,9 @@ Scheme
 				"additive"	"0"
 			}
 		}
+		
+	//(SamHud Fonts)//
+		
 		"xHairSpread" //(SamHud) Fog's Crosshairs v3
 		{
 			"1"
@@ -2402,10 +2405,157 @@ Scheme
 				"name" "Crosshairs"
 				"tall" "28"
 				"weight" "0"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack8"
+		{	
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "8"
+				"weight" "0"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack10"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "10"
+				"weight" "0"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack12"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "12"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack14"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "14"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack16"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "16"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack18"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "18"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack20"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "20"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack22"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "22"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack24"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "24"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack26"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "26"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack28"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "28"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack30"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "30"
+				"weight" "0"
+				"antialias" "1"
+			}
+		}
+		
+		"MontserratBlack32"
+		{
+			"1"
+			{
+				"name" "Montserrat Black"
+				"tall" "32"
+				"weight" "0"
 				"antialias" "1"
 			}
 		}
 	}
+	
 	//
 	//////////////////// BORDERS //////////////////////////////
 	//
@@ -4310,10 +4460,48 @@ Scheme
 				"range" "0x0000 0xFFFF"
 			}
 		}
-		"7" //(SamHud) Fog's Crosshairs v3
+		
+		//(SamHud)//
+		
+		"7"  //Fog's Crosshairs v3
 		{
 			"font" "resource/fonts/crosshairs.ttf"
 			"name" "Crosshairs"
+		}
+		"8"
+		{
+			"font" "resource/fonts/Montserrat-Black.otf"
+			"name" "Montserrat Black"
+		}
+		"9"
+		{
+			"font" "resource/fonts/Montserrat-Bold.otf"
+			"name" "Montserrat Bold"
+		}
+		"10"
+		{
+			"font" "resource/fonts/Montserrat-ExtraBold.otf"
+			"name" "Montserrat Extra Bold"
+		}
+		"11"
+		{
+			"font" "resource/fonts/Montserrat-Light.otf"
+			"name" "Montserrat Light"
+		}
+		"12"
+		{
+			"font" "resource/fonts/Montserrat-Regular.otf"
+			"name" "Montserrat"
+		}
+		"13"
+		{
+			"font" "resource/fonts/Montserrat-SemiBold.otf"
+			"name" "Montserrat Semi Bold"
+		}
+		"14"
+		{
+			"font" "resource/fonts/Montserrat-UltraLight.otf"
+			"name" "Montserrat Ultra Light"
 		}
 	}
 }
